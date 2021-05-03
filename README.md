@@ -6,5 +6,5 @@
 * ⚙️ In my daily work I use: `.js`, `.tsx`, `.html`, `.css`, `.svg`, `.php`
 * 💅🏼 Designed: [Instrumentalverein Tüddern](https://instrumentalverein-tueddern.de/), [Kegelclub „Mehr wie 9 geht nicht“](https://kegelclub-tüddern.de/), and more
 * 🌱 Striving to learn all about **Open Source**
-* 💬 Ping me about **frontend**, **pwa**, **react**, **javascript**, **development**, **inclusive design**
+* 💬 Ping me about **frontend**, **css**, **pwa**, **react**, **javascript**, **development**, **inclusive design**
 * 📫 Reach me: [@dreamseer](https://twitter.com/dreamseer)
