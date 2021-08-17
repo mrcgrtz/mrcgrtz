@@ -8,3 +8,8 @@
 * 🌱 Striving to learn all about **Open Source**
 * 💬 Ping me about **frontend**, **css**, **pwa**, **react**, **javascript**, **development**, **inclusive design**
 * 📫 Reach me: [@dreamseer](https://twitter.com/dreamseer)
+
+## Latest blog posts (🇩🇪 only)
+
+<!-- POST-LIST:START -->
+<!-- POST-LIST:END -->
