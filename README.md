@@ -12,9 +12,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Gut, dass ich schon gewählt habe …](https://marcgoertz.de/2021/gut-dass-ich-schon-gewaehlt-habe)
+- [Endlich mehr Beweglichkeit](https://marcgoertz.de/2021/endlich-mehr-beweglichkeit)
 - [Vierzig](https://marcgoertz.de/2021/vierzig)
 - [Wie ich mir einmal meinen Ellbogen brach](https://marcgoertz.de/2021/wie-ich-mir-einmal-meinen-ellbogen-brach)
 - [❤️ Zwei Änderungen im Blog (kniebes.com)](https://marcgoertz.de/2021/%e2%9d%a4%ef%b8%8f-zwei-aenderungen-im-blog-kniebes-com)
-- [❤️ Setting up a Decentralised Website (ENS + IPFS = dWeb)](https://marcgoertz.de/2021/%e2%9d%a4%ef%b8%8f-setting-up-a-decentralised-website-ens-ipfs-dweb)
-- [❤️ When service workers met framesets](https://marcgoertz.de/2021/%e2%9d%a4%ef%b8%8f-when-service-workers-met-framesets)
 <!-- POST-LIST:END -->
