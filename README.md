@@ -12,9 +12,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [„Marcs Arm“](https://marcgoertz.de/2021/marcs-arm)
 - [Gut, dass ich schon gewählt habe …](https://marcgoertz.de/2021/gut-dass-ich-schon-gewaehlt-habe)
 - [Endlich mehr Beweglichkeit](https://marcgoertz.de/2021/endlich-mehr-beweglichkeit)
 - [Vierzig](https://marcgoertz.de/2021/vierzig)
 - [Wie ich mir einmal meinen Ellbogen brach](https://marcgoertz.de/2021/wie-ich-mir-einmal-meinen-ellbogen-brach)
-- [❤️ Zwei Änderungen im Blog (kniebes.com)](https://marcgoertz.de/2021/%e2%9d%a4%ef%b8%8f-zwei-aenderungen-im-blog-kniebes-com)
 <!-- POST-LIST:END -->
