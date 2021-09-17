@@ -12,9 +12,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [❤️ Neu im Blog: Zuletzt getrunken (kniebes.com)](https://marcgoertz.de/2021/%e2%9d%a4%ef%b8%8f-neu-im-blog-zuletzt-getrunken-kniebes-com)
 - [Ein Remake von KOTOR?!](https://marcgoertz.de/2021/ein-remake-von-kotor)
 - [Mr. Anderson ist wieder da](https://marcgoertz.de/2021/mr-anderson-ist-wieder-da)
 - [📍 Checkin bei Therapiepunkt Selfkant](https://marcgoertz.de/2021/3533)
 - [„Marcs Arm“](https://marcgoertz.de/2021/marcs-arm)
-- [Gut, dass ich schon gewählt habe …](https://marcgoertz.de/2021/gut-dass-ich-schon-gewaehlt-habe)
 <!-- POST-LIST:END -->
