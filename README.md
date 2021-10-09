@@ -12,9 +12,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Und weiter warten](https://marcgoertz.de/2021/und-weiter-warten)
 - [Temporal](https://marcgoertz.de/2021/temporal)
 - [Es wird wieder gezockt](https://marcgoertz.de/2021/es-wird-wieder-gezockt)
 - [❤️ Neu im Blog: Zuletzt getrunken (kniebes.com)](https://marcgoertz.de/2021/%e2%9d%a4%ef%b8%8f-neu-im-blog-zuletzt-getrunken-kniebes-com)
 - [Ein Remake von KOTOR?!](https://marcgoertz.de/2021/ein-remake-von-kotor)
-- [Mr. Anderson ist wieder da](https://marcgoertz.de/2021/mr-anderson-ist-wieder-da)
 <!-- POST-LIST:END -->
