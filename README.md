@@ -12,9 +12,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Versal-Eszett unter iOS](https://marcgoertz.de/2021/versal-eszett-unter-ios)
 - [Siri und Apple TV](https://marcgoertz.de/2021/siri-und-apple-tv)
 - [Bin ich jetzt behindert?](https://marcgoertz.de/2021/bin-ich-jetzt-behindert)
 - [ARIA in HTML](https://marcgoertz.de/2021/aria-in-html)
 - [Und weiter warten](https://marcgoertz.de/2021/und-weiter-warten)
-- [Temporal](https://marcgoertz.de/2021/temporal)
 <!-- POST-LIST:END -->
