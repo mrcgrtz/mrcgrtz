@@ -12,9 +12,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [App-Icons mit Squircle-Radius](https://marcgoertz.de/2021/app-icons-mit-squircle-radius)
 - [postcss-opacity-percentage](https://marcgoertz.de/2021/postcss-opacity-percentage)
 - [The Book of Boba Fett](https://marcgoertz.de/2021/the-book-of-boba-fett)
 - [Versal-Eszett unter iOS](https://marcgoertz.de/2021/versal-eszett-unter-ios)
 - [Siri und Apple TV](https://marcgoertz.de/2021/siri-und-apple-tv)
-- [Bin ich jetzt behindert?](https://marcgoertz.de/2021/bin-ich-jetzt-behindert)
 <!-- POST-LIST:END -->
