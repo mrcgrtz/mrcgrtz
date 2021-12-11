@@ -9,9 +9,9 @@
 * 💬 Ping me about **frontend**, **css**, **pwa**, **react**, **javascript**, **development**, and **inclusive design**
 
 [![Blog](https://img.shields.io/badge/blog-c71585?style=for-the-badge&logo=wordpress&logoColor=white)](https://marcgoertz.de/)
+[![Support me](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dreamseer)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dreamseer)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcgoertz/)
-[![Support me](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dreamseer)
 
 ## Latest blog posts (🇩🇪 only)
 
