@@ -16,9 +16,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [❤️ Web3 is going just great](https://marcgoertz.de/2021/%e2%9d%a4%ef%b8%8f-web3-is-going-just-great)
 - [📍 Checkin bei Ristaurante - Pizzeria Roma](https://marcgoertz.de/2021/3590)
 - [Wäre das auch geklärt](https://marcgoertz.de/2021/waere-das-auch-geklaert)
 - [Es ist einfach so](https://marcgoertz.de/2021/es-ist-einfach-so)
 - [App-Icons mit Squircle-Radius](https://marcgoertz.de/2021/app-icons-mit-squircle-radius)
-- [postcss-opacity-percentage](https://marcgoertz.de/2021/postcss-opacity-percentage)
 <!-- POST-LIST:END -->
