@@ -16,9 +16,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei Parkrestaurant Tüddern](https://marcgoertz.de/2021/3618)
+- [📍 Checkin bei Alten- und Pflegeheim St. Josef](https://marcgoertz.de/2021/3619)
 - [❤️ Abkürzung durchs Atomkraftwerk](https://marcgoertz.de/2021/%e2%9d%a4%ef%b8%8f-abkuerzung-durchs-atomkraftwerk)
 - [❤️ Working With Web Feeds: It’s More Than RSS](https://marcgoertz.de/2021/%e2%9d%a4%ef%b8%8f-working-with-web-feeds-its-more-than-rss)
-- [❤️ Web3 is going just great](https://marcgoertz.de/2021/%e2%9d%a4%ef%b8%8f-web3-is-going-just-great)
-- [📍 Checkin bei Ristaurante - Pizzeria Roma](https://marcgoertz.de/2021/3590)
-- [Wäre das auch geklärt](https://marcgoertz.de/2021/waere-das-auch-geklaert)
+- [📍 Checkin bei Vue Cinema](https://marcgoertz.de/2021/3620)
 <!-- POST-LIST:END -->
