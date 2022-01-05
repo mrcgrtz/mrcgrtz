@@ -16,9 +16,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei Friture Op de Eck](https://marcgoertz.de/2022/3642)
 - [📍 Checkin bei Therapiepunkt Selfkant](https://marcgoertz.de/2022/3638)
 - [Nur noch eine Folge …](https://marcgoertz.de/2022/nur-noch-eine-folge)
 - [📍 Checkin bei Parkrestaurant Tüddern](https://marcgoertz.de/2021/3618)
 - [📍 Checkin bei Alten- und Pflegeheim St. Josef](https://marcgoertz.de/2021/3619)
-- [❤️ Abkürzung durchs Atomkraftwerk](https://marcgoertz.de/2021/%e2%9d%a4%ef%b8%8f-abkuerzung-durchs-atomkraftwerk)
 <!-- POST-LIST:END -->
