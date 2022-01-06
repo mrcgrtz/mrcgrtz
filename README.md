@@ -16,9 +16,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
-- [📍 Checkin bei Friture Op de Eck](https://marcgoertz.de/2022/3642)
-- [📍 Checkin bei Therapiepunkt Selfkant](https://marcgoertz.de/2022/3638)
-- [Nur noch eine Folge …](https://marcgoertz.de/2022/nur-noch-eine-folge)
-- [📍 Checkin bei Parkrestaurant Tüddern](https://marcgoertz.de/2021/3618)
-- [📍 Checkin bei Alten- und Pflegeheim St. Josef](https://marcgoertz.de/2021/3619)
+- [Last.fm in 2021](https://marcgoertz.de/2022/last-fm-in-2021)
+- [Es sind die kleinen Dinge](https://marcgoertz.de/2022/es-sind-die-kleinen-dinge)
+- [❤️ Creep &lpar;Radiohead&rpar; – Honky Tonk Edition](https://marcgoertz.de/2022/%e2%9d%a4%ef%b8%8f-creep-radiohead-honky-tonk-edition)
+- [Erster Checkup des Jahres](https://marcgoertz.de/2022/erster-checkup-des-jahres)
+- [The Book of Boba Fett, Kapitel 2](https://marcgoertz.de/2022/the-book-of-boba-fett-kapitel-2)
 <!-- POST-LIST:END -->
