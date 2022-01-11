@@ -16,9 +16,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [❤️ Happy 10th Birthday, Bridgy!](https://marcgoertz.de/2022/%e2%9d%a4%ef%b8%8f-happy-10th-birthday-bridgy)
+- [Bel-Air](https://marcgoertz.de/2022/bel-air)
+- [Zurück an die Arbeit](https://marcgoertz.de/2022/zurueck-an-die-arbeit)
 - [Lachendes Auge, weinendes Auge](https://marcgoertz.de/2022/lachendes-auge-weinendes-auge)
 - [📍 Checkin bei Café Bagett](https://marcgoertz.de/2022/3682)
-- [📍 Checkin bei Chirurgische Praxis Dr. Jöhrling](https://marcgoertz.de/2022/3680)
-- [Last.fm in 2021](https://marcgoertz.de/2022/last-fm-in-2021)
-- [Es sind die kleinen Dinge](https://marcgoertz.de/2022/es-sind-die-kleinen-dinge)
 <!-- POST-LIST:END -->
