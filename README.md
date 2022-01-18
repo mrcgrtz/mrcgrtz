@@ -16,9 +16,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Boostern, aber zwei Mal](https://marcgoertz.de/2022/boostern-aber-zwei-mal)
 - [The Book of Boba Fett, Kapitel 3](https://marcgoertz.de/2022/the-book-of-boba-fett-kapitel-3)
 - [Letterboxd 2021 in review](https://marcgoertz.de/2022/letterboxd-2021-in-review)
 - [1.000!](https://marcgoertz.de/2022/1000)
 - [❤️ Happy 10th Birthday, Bridgy!](https://marcgoertz.de/2022/%e2%9d%a4%ef%b8%8f-happy-10th-birthday-bridgy)
-- [Bel-Air](https://marcgoertz.de/2022/bel-air)
 <!-- POST-LIST:END -->
