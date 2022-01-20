@@ -16,9 +16,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Moon Knight](https://marcgoertz.de/2022/moon-knight)
 - [Microsoft will Activision Blizzard kaufen](https://marcgoertz.de/2022/microsoft-will-activision-blizzard-kaufen)
 - [📍 Checkin im Hallenbad Haaren](https://marcgoertz.de/2022/3732)
 - [Boostern, aber zwei Mal](https://marcgoertz.de/2022/boostern-aber-zwei-mal)
 - [The Book of Boba Fett, Kapitel 3](https://marcgoertz.de/2022/the-book-of-boba-fett-kapitel-3)
-- [Letterboxd 2021 in review](https://marcgoertz.de/2022/letterboxd-2021-in-review)
 <!-- POST-LIST:END -->
