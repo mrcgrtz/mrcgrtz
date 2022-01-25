@@ -16,9 +16,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei Augenzentrum am Annapark](https://marcgoertz.de/2022/3771)
 - [The Book of Boba Fett, Kapitel 4](https://marcgoertz.de/2022/the-book-of-boba-fett-kapitel-4)
 - [Moon Knight](https://marcgoertz.de/2022/moon-knight)
 - [Microsoft will Activision Blizzard kaufen](https://marcgoertz.de/2022/microsoft-will-activision-blizzard-kaufen)
 - [📍 Checkin im Hallenbad Haaren](https://marcgoertz.de/2022/3732)
-- [Boostern, aber zwei Mal](https://marcgoertz.de/2022/boostern-aber-zwei-mal)
 <!-- POST-LIST:END -->
