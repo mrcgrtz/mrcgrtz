@@ -16,9 +16,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [The Book of Boba Fett, Kapitel 5](https://marcgoertz.de/2022/the-book-of-boba-fett-kapitel-5)
+- [Das große Serien-Schauen](https://marcgoertz.de/2022/das-grosse-serien-schauen)
 - [❤️ Make Free Stuff](https://marcgoertz.de/2022/%e2%9d%a4%ef%b8%8f-make-free-stuff)
 - [📍 Checkin bei Augenzentrum am Annapark](https://marcgoertz.de/2022/3771)
 - [The Book of Boba Fett, Kapitel 4](https://marcgoertz.de/2022/the-book-of-boba-fett-kapitel-4)
-- [Moon Knight](https://marcgoertz.de/2022/moon-knight)
-- [Microsoft will Activision Blizzard kaufen](https://marcgoertz.de/2022/microsoft-will-activision-blizzard-kaufen)
 <!-- POST-LIST:END -->
