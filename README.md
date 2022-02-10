@@ -16,9 +16,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei Zuiver Sittard](https://marcgoertz.de/2022/3807)
 - [Die brillanten Animationen in Metroid Dread](https://marcgoertz.de/2022/animationen-in-metroid-dread)
 - [📍 Checkin bei Praxisklinik für ambulante Operationen](https://marcgoertz.de/2022/3801)
 - [The Book of Boba Fett, Kapitel 6](https://marcgoertz.de/2022/the-book-of-boba-fett-kapitel-6)
 - [Wie ich einmal &lpar;fast&rpar; das Internet kaputt machte](https://marcgoertz.de/2022/wie-ich-einmal-fast-das-internet-kaputt-machte)
-- [The Book of Boba Fett, Kapitel 5](https://marcgoertz.de/2022/the-book-of-boba-fett-kapitel-5)
 <!-- POST-LIST:END -->
