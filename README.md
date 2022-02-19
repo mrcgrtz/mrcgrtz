@@ -16,9 +16,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei Gaststätte Dreissen](https://marcgoertz.de/2022/3815)
+- [📍 Checkin bei Friture Op de Eck](https://marcgoertz.de/2022/3813)
 - [Die erste Vollzeitwoche](https://marcgoertz.de/2022/3809)
 - [📍 Checkin bei Zuiver Sittard](https://marcgoertz.de/2022/3807)
 - [Die brillanten Animationen in Metroid Dread](https://marcgoertz.de/2022/animationen-in-metroid-dread)
-- [📍 Checkin bei Praxisklinik für ambulante Operationen](https://marcgoertz.de/2022/3801)
-- [The Book of Boba Fett, Kapitel 6](https://marcgoertz.de/2022/the-book-of-boba-fett-kapitel-6)
 <!-- POST-LIST:END -->
