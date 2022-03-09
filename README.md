@@ -16,9 +16,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei Friture Op de Eck](https://marcgoertz.de/2022/3822)
+- [📍 Checkin im Hallenbad Haaren](https://marcgoertz.de/2022/3821)
 - [📍 Checkin bei Gaststätte Dreissen](https://marcgoertz.de/2022/3815)
 - [📍 Checkin bei Friture Op de Eck](https://marcgoertz.de/2022/3813)
 - [Die erste Vollzeitwoche](https://marcgoertz.de/2022/3809)
-- [📍 Checkin bei Zuiver Sittard](https://marcgoertz.de/2022/3807)
-- [Die brillanten Animationen in Metroid Dread](https://marcgoertz.de/2022/animationen-in-metroid-dread)
 <!-- POST-LIST:END -->
