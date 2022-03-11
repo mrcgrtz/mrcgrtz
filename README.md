@@ -16,9 +16,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Star Wars: Obi-Wan Kenobi](https://marcgoertz.de/2022/star-wars-obi-wan-kenobi)
 - [📍 Checkin bei Friture Op de Eck](https://marcgoertz.de/2022/3822)
 - [📍 Checkin im Hallenbad Haaren](https://marcgoertz.de/2022/3821)
 - [📍 Checkin bei Gaststätte Dreissen](https://marcgoertz.de/2022/3815)
 - [📍 Checkin bei Friture Op de Eck](https://marcgoertz.de/2022/3813)
-- [Die erste Vollzeitwoche](https://marcgoertz.de/2022/3809)
 <!-- POST-LIST:END -->
