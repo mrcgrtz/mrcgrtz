@@ -1,6 +1,6 @@
 # Hi there 👋🏼
 
-**I am a Frontend Developer working in Cologne, Germany.**
+**I am a remote frontend developer working in Selfkant, Germany.**
 
 * 🏢 I am currently full-time working on **[billiger-mietwagen.de](https://www.billiger-mietwagen.de/)** and **[carigami.fr](https://www.carigami.fr/)**
 * ⚙️ In my daily work I use: `.js`, `.tsx`, `.html`, `.css`, `.svg`, and `.php`
