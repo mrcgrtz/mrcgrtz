@@ -17,9 +17,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [The Legend of Zelda: Tears of the Kingdom](https://marcgoertz.de/2022/the-legend-of-zelda-tears-of-the-kingdom)
 - [Adieu, Netflix!](https://marcgoertz.de/2022/adieu-netflix)
 - [Star Wars: Obi-Wan Kenobi](https://marcgoertz.de/2022/star-wars-obi-wan-kenobi)
 - [📍 Checkin bei Friture Op de Eck](https://marcgoertz.de/2022/3822)
 - [📍 Checkin im Hallenbad Haaren](https://marcgoertz.de/2022/3821)
-- [📍 Checkin bei Gaststätte Dreissen](https://marcgoertz.de/2022/3815)
 <!-- POST-LIST:END -->
