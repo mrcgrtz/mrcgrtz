@@ -18,9 +18,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Artemis](https://marcgoertz.de/2022/artemis)
 - [📍 Checkin bei XD-zaal &lpar;Zaal 1&rpar;](https://marcgoertz.de/2022/3840)
 - [📍 Checkin bei Toko Patja](https://marcgoertz.de/2022/3844)
 - [📍 Checkin bei Landgasthof Haus Lutgen](https://marcgoertz.de/2022/3846)
 - [The Legend of Zelda: Tears of the Kingdom](https://marcgoertz.de/2022/the-legend-of-zelda-tears-of-the-kingdom)
-- [Adieu, Netflix!](https://marcgoertz.de/2022/adieu-netflix)
 <!-- POST-LIST:END -->
