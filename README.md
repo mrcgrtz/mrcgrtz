@@ -17,9 +17,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei Grieks restaurant Parthenon](https://marcgoertz.de/2022/3914)
 - [Mach’s gut, Twitter!](https://marcgoertz.de/2022/machs-gut-twitter)
 - [📍 Checkin bei XD-zaal &lpar;Zaal 1&rpar;](https://marcgoertz.de/2022/3869)
 - [Artemis](https://marcgoertz.de/2022/artemis)
 - [📍 Checkin bei XD-zaal &lpar;Zaal 1&rpar;](https://marcgoertz.de/2022/3840)
-- [📍 Checkin bei Toko Patja](https://marcgoertz.de/2022/3844)
 <!-- POST-LIST:END -->
