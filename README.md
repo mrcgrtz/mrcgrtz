@@ -17,9 +17,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Katze](https://marcgoertz.de/2023/katze)
 - [Last.fm in 2022](https://marcgoertz.de/2023/last-fm-in-2022)
 - [Zurück zur Arbeit](https://marcgoertz.de/2023/zurueck-zur-arbeit)
 - [📍 Checkin bei Sportplatz Tüddern](https://marcgoertz.de/2023/3923)
 - [📍 Checkin bei Gaststätte &quot;Zur Bahn&quot;](https://marcgoertz.de/2023/3920)
-- [📍 Checkin in der Westzipfelhalle](https://marcgoertz.de/2023/3917)
 <!-- POST-LIST:END -->
