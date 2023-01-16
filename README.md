@@ -17,9 +17,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei cafe de mert](https://marcgoertz.de/2023/3937)
+- [📍 Checkin bei Cafe Oos Hoes](https://marcgoertz.de/2023/3935)
+- [📍 Checkin in der Westzipfelhalle](https://marcgoertz.de/2023/3933)
 - [Katze](https://marcgoertz.de/2023/katze)
 - [Last.fm in 2022](https://marcgoertz.de/2023/last-fm-in-2022)
-- [Zurück zur Arbeit](https://marcgoertz.de/2023/zurueck-zur-arbeit)
-- [📍 Checkin bei Sportplatz Tüddern](https://marcgoertz.de/2023/3923)
-- [📍 Checkin bei Gaststätte &quot;Zur Bahn&quot;](https://marcgoertz.de/2023/3920)
 <!-- POST-LIST:END -->
