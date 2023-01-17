@@ -17,9 +17,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Nix passiert, bitte weitergehen](https://marcgoertz.de/2023/nix-passiert-bitte-weitergehen)
 - [📍 Checkin bei cafe de mert](https://marcgoertz.de/2023/3937)
 - [📍 Checkin bei Cafe Oos Hoes](https://marcgoertz.de/2023/3935)
 - [📍 Checkin in der Westzipfelhalle](https://marcgoertz.de/2023/3933)
 - [Katze](https://marcgoertz.de/2023/katze)
-- [Last.fm in 2022](https://marcgoertz.de/2023/last-fm-in-2022)
 <!-- POST-LIST:END -->
