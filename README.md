@@ -17,9 +17,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Die letzte Staffel Cobra Kai](https://marcgoertz.de/2023/die-letzte-staffel-cobra-kai)
 - [Wetterwarnung](https://marcgoertz.de/2023/wetterwarnung)
 - [Schreiben mit links?](https://marcgoertz.de/2023/schreiben-mit-links)
 - [Nix passiert, bitte weitergehen](https://marcgoertz.de/2023/nix-passiert-bitte-weitergehen)
 - [📍 Checkin bei cafe de mert](https://marcgoertz.de/2023/3937)
-- [📍 Checkin bei Cafe Oos Hoes](https://marcgoertz.de/2023/3935)
 <!-- POST-LIST:END -->
