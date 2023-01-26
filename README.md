@@ -18,8 +18,8 @@
 
 <!-- POST-LIST:START -->
 - [Ivory ist da!](https://marcgoertz.de/2023/ivory-ist-da)
+- [📍 Checkin bei Friture Op de Eck](https://marcgoertz.de/2023/3966)
 - [Und wieder ein Wochenrückblick](https://marcgoertz.de/2023/und-wieder-ein-wochenrueckblick)
 - [Die letzte Staffel Cobra Kai](https://marcgoertz.de/2023/die-letzte-staffel-cobra-kai)
 - [Wetterwarnung](https://marcgoertz.de/2023/wetterwarnung)
-- [Schreiben mit links?](https://marcgoertz.de/2023/schreiben-mit-links)
 <!-- POST-LIST:END -->
