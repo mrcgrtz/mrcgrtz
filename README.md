@@ -17,9 +17,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [What’s in your menubar again?](https://marcgoertz.de/2023/whats-in-your-menubar-again)
+- [Wochennotizen ohne Notizen](https://marcgoertz.de/2023/wochennotizen-ohne-notizen)
 - [📍 Checkin bei Gaststätte &quot;Zur Bahn&quot;](https://marcgoertz.de/2023/3970)
 - [Ivory ist da!](https://marcgoertz.de/2023/ivory-ist-da)
 - [📍 Checkin bei Friture Op de Eck](https://marcgoertz.de/2023/3966)
-- [Und wieder ein Wochenrückblick](https://marcgoertz.de/2023/und-wieder-ein-wochenrueckblick)
-- [Die letzte Staffel Cobra Kai](https://marcgoertz.de/2023/die-letzte-staffel-cobra-kai)
 <!-- POST-LIST:END -->
