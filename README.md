@@ -2,10 +2,10 @@
 
 **I am a remote frontend developer working in Selfkant, Germany.**
 
-* 🏢 I am currently full-time working on **[billiger-mietwagen.de](https://www.billiger-mietwagen.de/)** and **[carigami.fr](https://www.carigami.fr/)**
+* 🏢 I am currently full-time working on **[FLOYT](https://www.floyt.com/)**
 * ⚙️ In my daily work I use: `.js`, `.tsx`, `.html`, `.css`, `.svg`, and `.php`
 * 💅🏼 Designed: [Instrumentalverein Tüddern](https://instrumentalverein-tueddern.de/), [Kegelclub „Mehr wie 9 geht nicht“](https://kegelclub-tüddern.de/), and more
-* 🌱 Striving to learn all about **typescript**, **svg**, **11ty**, and **cooking**
+* 🌱 Striving to learn all about **typescript**, **svg**, and **cooking**
 * 💬 Ping me about **frontend**, **css**, **pwa**, **react**, **javascript**, **development**, and **inclusive design**
 
 [![Blog](https://img.shields.io/badge/blog-c71585?style=for-the-badge&logo=wordpress&logoColor=white)](https://marcgoertz.de/)
