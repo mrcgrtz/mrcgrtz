@@ -17,9 +17,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Kostenpflichtige Twitter API](https://marcgoertz.de/2023/kostenpflichtige-twitter-api)
+- [📍 Checkin bei Manufaktur Bockreiter](https://marcgoertz.de/2023/3992)
 - [📍 Checkin bei EDEKA Verboket](https://marcgoertz.de/2023/3989)
 - [What’s in your menubar again?](https://marcgoertz.de/2023/whats-in-your-menubar-again)
 - [Wochennotizen ohne Notizen](https://marcgoertz.de/2023/wochennotizen-ohne-notizen)
-- [📍 Checkin bei Gaststätte &quot;Zur Bahn&quot;](https://marcgoertz.de/2023/3970)
-- [Ivory ist da!](https://marcgoertz.de/2023/ivory-ist-da)
 <!-- POST-LIST:END -->
