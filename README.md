@@ -17,9 +17,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Von Frust, einem Frühstück und Karneval](https://marcgoertz.de/2023/von-frust-einem-fruehstueck-und-karneval)
 - [Kostenpflichtige Twitter API](https://marcgoertz.de/2023/kostenpflichtige-twitter-api)
 - [📍 Checkin bei Manufaktur Bockreiter](https://marcgoertz.de/2023/3992)
 - [📍 Checkin bei EDEKA Verboket](https://marcgoertz.de/2023/3989)
 - [What’s in your menubar again?](https://marcgoertz.de/2023/whats-in-your-menubar-again)
-- [Wochennotizen ohne Notizen](https://marcgoertz.de/2023/wochennotizen-ohne-notizen)
 <!-- POST-LIST:END -->
