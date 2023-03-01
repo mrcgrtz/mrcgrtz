@@ -17,9 +17,9 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Na endlich: Corona!](https://marcgoertz.de/2023/na-endlich-corona)
 - [Wie ich einmal über Karneval krank wurde](https://marcgoertz.de/2023/wie-ich-einmal-ueber-karneval-krank-wurde)
 - [Von einem Besuch in Köln und einer berüchtigten Karnevalssitzung](https://marcgoertz.de/2023/von-einem-besuch-in-koeln-und-einer-beruechtigten-karnevalssitzung)
 - [Wo ist der Call to Action?](https://marcgoertz.de/2023/wo-ist-der-call-to-action)
 - [Von Frust, einem Frühstück und Karneval](https://marcgoertz.de/2023/von-frust-einem-fruehstueck-und-karneval)
-- [Kostenpflichtige Twitter API](https://marcgoertz.de/2023/kostenpflichtige-twitter-api)
 <!-- POST-LIST:END -->
