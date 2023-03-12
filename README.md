@@ -23,3 +23,8 @@
 - [Von einem Besuch in Köln und einer berüchtigten Karnevalssitzung](https://marcgoertz.de/2023/von-einem-besuch-in-koeln-und-einer-beruechtigten-karnevalssitzung)
 - [Wo ist der Call to Action?](https://marcgoertz.de/2023/wo-ist-der-call-to-action)
 <!-- POST-LIST:END -->
+
+## GitHub trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mrcgrtz&no-frame=true&theme=dracula&margin-w=4&margin-h=4)
+
