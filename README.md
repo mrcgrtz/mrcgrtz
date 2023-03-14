@@ -17,11 +17,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Einfach mal auf der Couch bleiben](https://marcgoertz.de/2023/einfach-mal-auf-der-couch-bleiben)
 - [Eine &lpar;fast&rpar; ereignislose Woche](https://marcgoertz.de/2023/eine-fast-ereignislose-woche)
 - [Na endlich: Corona!](https://marcgoertz.de/2023/na-endlich-corona)
 - [Wie ich einmal über Karneval krank wurde](https://marcgoertz.de/2023/wie-ich-einmal-ueber-karneval-krank-wurde)
 - [Von einem Besuch in Köln und einer berüchtigten Karnevalssitzung](https://marcgoertz.de/2023/von-einem-besuch-in-koeln-und-einer-beruechtigten-karnevalssitzung)
-- [Wo ist der Call to Action?](https://marcgoertz.de/2023/wo-ist-der-call-to-action)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
