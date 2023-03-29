@@ -17,11 +17,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Konzertvorbereitungen und Konzert](https://marcgoertz.de/2023/konzertvorbereitungen-und-konzert)
 - [Ausgefüllte Abendprogramme](https://marcgoertz.de/2023/ausgefuellte-abendprogramme)
 - [Einfach mal auf der Couch bleiben](https://marcgoertz.de/2023/einfach-mal-auf-der-couch-bleiben)
 - [Eine &lpar;fast&rpar; ereignislose Woche](https://marcgoertz.de/2023/eine-fast-ereignislose-woche)
 - [Na endlich: Corona!](https://marcgoertz.de/2023/na-endlich-corona)
-- [Wie ich einmal über Karneval krank wurde](https://marcgoertz.de/2023/wie-ich-einmal-ueber-karneval-krank-wurde)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
