@@ -17,11 +17,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Tears of the Kingdom Gameplay](https://marcgoertz.de/2023/tears-of-the-kingdom-gameplay)
 - [Konzertvorbereitungen und Konzert](https://marcgoertz.de/2023/konzertvorbereitungen-und-konzert)
 - [Ausgefüllte Abendprogramme](https://marcgoertz.de/2023/ausgefuellte-abendprogramme)
 - [Einfach mal auf der Couch bleiben](https://marcgoertz.de/2023/einfach-mal-auf-der-couch-bleiben)
 - [Eine &lpar;fast&rpar; ereignislose Woche](https://marcgoertz.de/2023/eine-fast-ereignislose-woche)
-- [Na endlich: Corona!](https://marcgoertz.de/2023/na-endlich-corona)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
