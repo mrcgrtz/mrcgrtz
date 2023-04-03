@@ -17,11 +17,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei Festhalle Oberbruch](https://marcgoertz.de/2023/4104)
 - [📍 Checkin bei Gaststätte &quot;Zur Bahn&quot;](https://marcgoertz.de/2023/4101)
 - [📍 Checkin bei Die ergotherapeutische Praxis - PuraVida](https://marcgoertz.de/2023/4097)
 - [Tears of the Kingdom Gameplay](https://marcgoertz.de/2023/tears-of-the-kingdom-gameplay)
 - [Konzertvorbereitungen und Konzert](https://marcgoertz.de/2023/konzertvorbereitungen-und-konzert)
-- [Ausgefüllte Abendprogramme](https://marcgoertz.de/2023/ausgefuellte-abendprogramme)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
