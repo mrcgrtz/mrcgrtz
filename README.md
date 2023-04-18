@@ -4,6 +4,7 @@
 
 * 🏢 I am currently full-time working on **[FLOYT](https://www.floyt.com/)**
 * ⚙️ In my daily work I use: `.js`, `.tsx`, `.html`, `.css`, `.svg`, and `.php`
+* 📦 I am open about my setup: Check [my dotfiles](https://github.com/mrcgrtz/dotfiles) and see [how I use Visual Studio Code](https://howivscode.com/mrcgrtz)
 * 💅🏼 Designed: [Instrumentalverein Tüddern](https://instrumentalverein-tueddern.de/), [Kegelclub „Mehr wie 9 geht nicht“](https://kegelclub-tüddern.de/), and more
 * 🌱 Striving to learn all about **typescript**, **svg**, and **cooking**
 * 💬 Ping me about **frontend**, **css**, **pwa**, **react**, **javascript**, **development**, and **inclusive design**
