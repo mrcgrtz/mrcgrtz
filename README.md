@@ -19,11 +19,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [42](https://marcgoertz.de/2023/42)
 - [Ich war nie weg](https://marcgoertz.de/2023/ich-war-nie-weg)
 - [Eine kurze Woche](https://marcgoertz.de/2023/eine-kurze-woche)
 - [“Heir to the Empire”](https://marcgoertz.de/2023/heir-to-the-empire)
 - [Was war denn da los?](https://marcgoertz.de/2023/was-war-denn-da-los)
-- [📍 Checkin bei Festhalle Oberbruch](https://marcgoertz.de/2023/4104)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
