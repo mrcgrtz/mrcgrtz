@@ -19,11 +19,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Mein Arm und wie es weiter geht](https://marcgoertz.de/2023/mein-arm-und-wie-es-weiter-geht)
 - [42](https://marcgoertz.de/2023/42)
 - [Ich war nie weg](https://marcgoertz.de/2023/ich-war-nie-weg)
 - [Eine kurze Woche](https://marcgoertz.de/2023/eine-kurze-woche)
 - [“Heir to the Empire”](https://marcgoertz.de/2023/heir-to-the-empire)
-- [Was war denn da los?](https://marcgoertz.de/2023/was-war-denn-da-los)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
