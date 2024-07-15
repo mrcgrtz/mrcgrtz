@@ -5,10 +5,12 @@
 * 🏢 I am currently full-time working on **[FLOYT](https://www.floyt.com/)**
 * ⚙️ In my daily work I use: `.js`, `.tsx`, `.html`, `.css`, `.svg`, and `.php`
 * 📦 I am open about my setup: Check [my dotfiles](https://github.com/mrcgrtz/dotfiles) and see [how I use Visual Studio Code](https://howivscode.com/mrcgrtz)
+* 👤 User experience is better than developer experience is better than the implementation
 * 💅🏼 Designed: [Instrumentalverein Tüddern](https://instrumentalverein-tueddern.de/), [Kegelclub „Mehr wie 9 geht nicht“](https://kegelclub-tüddern.de/), and more
 * 🌱 Striving to learn all about **typescript**, **svg**, and **cooking**
 * 💬 Ping me about **frontend**, **css**, **pwa**, **react**, **javascript**, **development**, and **inclusive design**
 * 🧠 I still think [tabs are superior](https://lea.verou.me/blog/2012/01/why-tabs-are-clearly-superior/), though in my everyday work I use widely used coding styles that enforce spaces
+* 👨🏼‍🎨 I love GIFs (and it’s `/ɡɪf/`), Emojis, and custom Reacjis
 
 [![Blog](https://img.shields.io/badge/blog-c71585?style=for-the-badge&logo=wordpress&logoColor=white)](https://marcgoertz.de/)
 [![Support me](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mrcgrtz)
