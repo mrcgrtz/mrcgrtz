@@ -1,6 +1,6 @@
 # Hi there 👋🏼
 
-**I am a remote frontend developer working in Selfkant, Germany.**
+**I am Marc, a remote frontend developer working in Selfkant, Germany.**
 
 * 🏢 I am currently full-time working on **[FLOYT](https://www.floyt.com/)**
 * ⚙️ In my daily work I use: `.js`, `.tsx`, `.html`, `.css`, `.svg`, and `.php`
