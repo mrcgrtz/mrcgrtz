@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Endlich fertig gestellt: Heir to the Empire](https://marcgoertz.de/2024/heir-to-the-empire-verfilmt)
 - [Wie ich einmal ins Fernsehen kam](https://marcgoertz.de/2024/wie-ich-einmal-ins-fernsehen-kam)
 - [Meine eigene Arbeitszeiterfassung](https://marcgoertz.de/2024/meine-eigene-arbeitszeiterfassung)
 - [Das Ende der ISS](https://marcgoertz.de/2024/das-ende-der-iss)
 - [Mein Arm und wie es weiter geht](https://marcgoertz.de/2023/mein-arm-und-wie-es-weiter-geht)
-- [42](https://marcgoertz.de/2023/42)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
