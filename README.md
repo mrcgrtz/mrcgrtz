@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei Restaurant Medaillon](https://marcgoertz.de/2024/4200)
 - [Endlich fertig gestellt: Heir to the Empire](https://marcgoertz.de/2024/heir-to-the-empire-verfilmt)
+- [📍 Checkin bei bona&#39;me](https://marcgoertz.de/2024/4201)
 - [Wie ich einmal ins Fernsehen kam](https://marcgoertz.de/2024/wie-ich-einmal-ins-fernsehen-kam)
 - [Meine eigene Arbeitszeiterfassung](https://marcgoertz.de/2024/meine-eigene-arbeitszeiterfassung)
-- [Das Ende der ISS](https://marcgoertz.de/2024/das-ende-der-iss)
-- [Mein Arm und wie es weiter geht](https://marcgoertz.de/2023/mein-arm-und-wie-es-weiter-geht)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
