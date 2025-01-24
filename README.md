@@ -9,7 +9,7 @@
 * 💅🏼 Designed: [Instrumentalverein Tüddern](https://instrumentalverein-tueddern.de/), [Kegelclub „Mehr wie 9 geht nicht“](https://kegelclub-tüddern.de/), and more.
 * 🌱 Striving to learn all about **typography**, **SVG**, and **cooking**.
 * 💬 Ping me about **frontend**, **CSS**, **PWA**, **React**, **JavaScript**, and **inclusive design**.
-* 🧠 I still think [tabs are superior](https://lea.verou.me/blog/2012/01/why-tabs-are-clearly-superior/), though in my everyday work I use widely used coding styles that enforce spaces—and I hate it.
+* 🧠 I still think [tabs are superior](https://lea.verou.me/blog/2012/01/why-tabs-are-clearly-superior/), though in my everyday work I use widely accepted coding styles that enforce spaces—and I hate it so much.
 * 👨🏼‍🎨 I love GIFs (and it’s pronounced `/ɡɪf/`), Emojis, and custom Reacjis.
 
 [![Blog](https://img.shields.io/badge/blog-c71585?style=for-the-badge&logo=wordpress&logoColor=white)](https://marcgoertz.de/)
