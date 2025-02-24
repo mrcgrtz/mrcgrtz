@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Kranke Wahl](https://marcgoertz.de/2025/kranke-wahl)
 - [Drecks-Fascho-Laden](https://marcgoertz.de/2025/drecks-fascho-laden)
 - [Silvestergedanken](https://marcgoertz.de/2024/silvestergedanken)
 - [📍 Checkin bei Restaurant Medaillon](https://marcgoertz.de/2024/4200)
 - [Endlich fertig gestellt: Heir to the Empire](https://marcgoertz.de/2024/heir-to-the-empire-verfilmt)
-- [📍 Checkin bei bona&#39;me](https://marcgoertz.de/2024/4201)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
