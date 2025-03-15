@@ -4,7 +4,7 @@
 
 * 🏢 I am currently full-time working on **[billiger-mietwagen.de](https://www.billiger-mietwagen.de/)**.
 * ⚙️ In my daily work I use `.js`, `.tsx`, `.html`, `.css`, `.svg`, and `.php`.
-* 📦 I am open about my setup: Check [my dotfiles](https://github.com/mrcgrtz/dotfiles) and see [how I use Visual Studio Code](https://howivscode.com/mrcgrtz).
+* 📦 I am open about my setup: Check [my dotfiles](https://github.com/mrcgrtz/dotfiles) and see [how I use VSCodium](https://howivscode.com/mrcgrtz).
 * 👤 User experience is better than developer experience is better than the implementation.
 * 💅🏼 Designed: [Instrumentalverein Tüddern](https://instrumentalverein-tueddern.de/), [Kegelclub „Mehr wie 9 geht nicht“](https://kegelclub-tüddern.de/), and more.
 * 🌱 Striving to learn all about **typography**, **SVG**, and **cooking**.
