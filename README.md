@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Kaputt im Kalenderquartett](https://marcgoertz.de/2025/kaputt-im-kalenderquartett)
 - [📍 Checkin bei Städtisches Krankenhaus Heinsberg](https://marcgoertz.de/2025/4295)
 - [📍 Checkin bei Praxisklinik für ambulante Operationen](https://marcgoertz.de/2025/4292)
 - [Wahl 2025](https://marcgoertz.de/2025/wahl-2025)
 - [Kranke Wahl](https://marcgoertz.de/2025/kranke-wahl)
-- [Drecks-Fascho-Laden](https://marcgoertz.de/2025/drecks-fascho-laden)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
