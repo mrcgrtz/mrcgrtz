@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [WIP: Frühjahrsputz im Code](https://marcgoertz.de/2025/wip-fruehjahrsputz-im-code)
 - [Goodbye, PayPal](https://marcgoertz.de/2025/goodbye-paypal)
 - [Andor ist zurück](https://marcgoertz.de/2025/andor-ist-zurueck)
 - [Kaputt im Kalenderquartett](https://marcgoertz.de/2025/kaputt-im-kalenderquartett)
 - [📍 Checkin bei Städtisches Krankenhaus Heinsberg](https://marcgoertz.de/2025/4295)
-- [📍 Checkin bei Praxisklinik für ambulante Operationen](https://marcgoertz.de/2025/4292)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
