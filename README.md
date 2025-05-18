@@ -21,7 +21,7 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
-- [📍 Checkin bei Sportanlage Sc Selfkant](https://marcgoertz.de/2025/4378)
+- [📍 Checkin bei Integrativer Sportpark SC Selfkant](https://marcgoertz.de/2025/4378)
 - [WIP: Frühjahrsputz im Code](https://marcgoertz.de/2025/wip-fruehjahrsputz-im-code)
 - [Goodbye, PayPal](https://marcgoertz.de/2025/goodbye-paypal)
 - [Andor ist zurück](https://marcgoertz.de/2025/andor-ist-zurueck)
