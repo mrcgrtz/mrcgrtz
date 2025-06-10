@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Ein paar Tage am Meer](https://marcgoertz.de/2025/ein-paar-tage-am-meer)
 - [📍 Checkin bei Strandhotel Zoutelande](https://marcgoertz.de/2025/4385)
 - [📍 Checkin bei Integrativer Sportpark SC Selfkant](https://marcgoertz.de/2025/4378)
 - [WIP: Frühjahrsputz im Code](https://marcgoertz.de/2025/wip-fruehjahrsputz-im-code)
 - [Goodbye, PayPal](https://marcgoertz.de/2025/goodbye-paypal)
-- [Andor ist zurück](https://marcgoertz.de/2025/andor-ist-zurueck)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
