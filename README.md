@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Alien: Earth](https://marcgoertz.de/2025/alien-earth)
 - [Aus Spaß wurde Ernst](https://marcgoertz.de/2025/aus-spass-wurde-ernst)
 - [Mettbrötchen](https://marcgoertz.de/2025/mettbroetchen)
 - [Ein paar Tage am Meer](https://marcgoertz.de/2025/ein-paar-tage-am-meer)
 - [📍 Checkin bei Strandhotel Zoutelande](https://marcgoertz.de/2025/4385)
-- [📍 Checkin bei Integrativer Sportpark SC Selfkant](https://marcgoertz.de/2025/4378)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
