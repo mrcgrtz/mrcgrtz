@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [2025](https://marcgoertz.de/2025/2025)
 - [Und was ist Deine Ausrede?](https://marcgoertz.de/2025/und-was-ist-deine-ausrede)
 - [Pap](https://marcgoertz.de/2025/pap)
 - [Alien: Earth](https://marcgoertz.de/2025/alien-earth)
 - [Aus Spaß wurde Ernst](https://marcgoertz.de/2025/aus-spass-wurde-ernst)
-- [Mettbrötchen](https://marcgoertz.de/2025/mettbroetchen)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
