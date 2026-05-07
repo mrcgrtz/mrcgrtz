@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Don’t be evil oder was?](https://marcgoertz.de/2026/dont-be-evil-oder-was)
 - [Und dann ist das noch passiert](https://marcgoertz.de/2026/und-dann-ist-das-noch-passiert)
 - [Ich spende Blut](https://marcgoertz.de/2026/ich-spende-blut)
 - [Auf einem Ohr taub](https://marcgoertz.de/2026/auf-einem-ohr-taub)
 - [Die wichtigste Maschine der Welt](https://marcgoertz.de/2026/die-wichtigste-maschine-der-welt)
-- [2025](https://marcgoertz.de/2025/2025)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
