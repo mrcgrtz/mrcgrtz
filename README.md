@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Warum hasst jeder KI?](https://marcgoertz.de/2026/warum-hasst-jeder-ki)
+- [Spontankauf](https://marcgoertz.de/2026/spontankauf)
 - [Ein Jahr ohne Gicht](https://marcgoertz.de/2026/ein-jahr-ohne-gicht)
 - [Don’t be evil oder was?](https://marcgoertz.de/2026/dont-be-evil-oder-was)
 - [Und dann ist das noch passiert](https://marcgoertz.de/2026/und-dann-ist-das-noch-passiert)
-- [Ich spende Blut](https://marcgoertz.de/2026/ich-spende-blut)
-- [Auf einem Ohr taub](https://marcgoertz.de/2026/auf-einem-ohr-taub)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
