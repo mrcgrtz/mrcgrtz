@@ -30,4 +30,4 @@
 
 ## GitHub trophies
 
-![](https://github-profile-trophy.vercel.app/?username=mrcgrtz&no-frame=true&theme=dracula&margin-w=4&margin-h=4)
+![](https://trophy.benkou.dev/?username=mrcgrtz&no-frame=true&theme=dracula&margin-w=4&margin-h=4)
