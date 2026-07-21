@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Fußballgott](https://marcgoertz.de/2026/fussballgott)
 - [📍 Checkin bei Autohaus Bischof](https://marcgoertz.de/2026/4595)
 - [📍 Checkin bei Kreisverwaltung Heinsberg](https://marcgoertz.de/2026/4593)
 - [Ocarina of Time für die Switch 2](https://marcgoertz.de/2026/ocarina-of-time-fuer-die-switch-2)
 - [Warum hasst jeder KI?](https://marcgoertz.de/2026/warum-hasst-jeder-ki)
-- [Spontankauf](https://marcgoertz.de/2026/spontankauf)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
