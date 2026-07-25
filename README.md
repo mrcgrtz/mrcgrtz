@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei Bürgerhaus Schalbruch](https://marcgoertz.de/2026/9186)
 - [Flugdaten](https://marcgoertz.de/2026/flugdaten)
 - [Fußballgott](https://marcgoertz.de/2026/fussballgott)
+- [📍 Checkin bei Engendahl Scientific Consulting](https://marcgoertz.de/2026/9190)
 - [📍 Checkin bei Autohaus Bischof](https://marcgoertz.de/2026/4595)
-- [📍 Checkin bei Kreisverwaltung Heinsberg](https://marcgoertz.de/2026/4593)
-- [Ocarina of Time für die Switch 2](https://marcgoertz.de/2026/ocarina-of-time-fuer-die-switch-2)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
