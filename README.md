@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Neuromancer &lpar;Teaser&rpar;](https://marcgoertz.de/2026/neuromancer-teaser)
 - [📍 Checkin bei Bürgerhaus Schalbruch](https://marcgoertz.de/2026/9186)
 - [Flugdaten](https://marcgoertz.de/2026/flugdaten)
 - [Fußballgott](https://marcgoertz.de/2026/fussballgott)
 - [📍 Checkin bei Engendahl Scientific Consulting](https://marcgoertz.de/2026/9190)
-- [📍 Checkin bei Autohaus Bischof](https://marcgoertz.de/2026/4595)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
