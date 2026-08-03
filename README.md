@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Von iCloud zu FreshRSS](https://marcgoertz.de/2026/von-icloud-zu-freshrss)
+- [📍 Checkin bei Zum Goldenen Schuss](https://marcgoertz.de/2026/9228)
 - [Neuromancer &lpar;Teaser&rpar;](https://marcgoertz.de/2026/neuromancer-teaser)
 - [📍 Checkin bei Bürgerhaus Schalbruch](https://marcgoertz.de/2026/9186)
 - [Flugdaten](https://marcgoertz.de/2026/flugdaten)
-- [Fußballgott](https://marcgoertz.de/2026/fussballgott)
-- [📍 Checkin bei Engendahl Scientific Consulting](https://marcgoertz.de/2026/9190)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
