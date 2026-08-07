@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei Zuiver Sittard](https://marcgoertz.de/2026/9318)
 - [Von iCloud zu FreshRSS](https://marcgoertz.de/2026/von-icloud-zu-freshrss)
 - [📍 Checkin bei Zum Goldenen Schuss](https://marcgoertz.de/2026/9228)
 - [Neuromancer &lpar;Teaser&rpar;](https://marcgoertz.de/2026/neuromancer-teaser)
 - [📍 Checkin bei Bürgerhaus Schalbruch](https://marcgoertz.de/2026/9186)
-- [Flugdaten](https://marcgoertz.de/2026/flugdaten)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
