@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Depatronise Patreon Userscript](https://marcgoertz.de/2026/depatronise-patreon-userscript)
 - [🍺 Bier bei Zur Bahn – Die Gaststätte](https://marcgoertz.de/2026/9333)
 - [📍 Checkin bei Friture &#39;t Trepke](https://marcgoertz.de/2026/9326)
 - [📍 Checkin bei Zuiver Sittard](https://marcgoertz.de/2026/9318)
 - [Von iCloud zu FreshRSS](https://marcgoertz.de/2026/von-icloud-zu-freshrss)
-- [📍 Checkin bei Zum Goldenen Schuss](https://marcgoertz.de/2026/9228)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
