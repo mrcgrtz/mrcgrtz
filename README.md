@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Fluch von Ula’tek ist da](https://marcgoertz.de/2026/fluch-von-ulatek-ist-da)
+- [Zurück zu Sublime](https://marcgoertz.de/2026/zurueck-zu-sublime)
+- [Schöne neue Welt](https://marcgoertz.de/2026/schoene-neue-welt)
 - [Was kommt nach dem iMac?](https://marcgoertz.de/2026/was-kommt-nach-dem-imac)
 - [Instagram-URLs nachträglich einsammeln](https://marcgoertz.de/2026/instagram-urls-nachtraeglich-einsammeln)
-- [Depatronise Patreon Userscript](https://marcgoertz.de/2026/depatronise-patreon-userscript)
-- [🍺 Bier bei Zur Bahn – Die Gaststätte](https://marcgoertz.de/2026/9333)
-- [📍 Checkin bei Friture &#39;t Trepke](https://marcgoertz.de/2026/9326)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
