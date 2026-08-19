@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei Vue Cinema](https://marcgoertz.de/2026/9437)
 - [📍 Checkin bei Phantasialand](https://marcgoertz.de/2026/9426)
 - [📍 Checkin bei Jumbo](https://marcgoertz.de/2026/9424)
 - [Sonnenfinsternis 2026](https://marcgoertz.de/2026/sonnenfinsternis-2026)
 - [Fluch von Ula’tek ist da](https://marcgoertz.de/2026/fluch-von-ulatek-ist-da)
-- [Zurück zu Sublime](https://marcgoertz.de/2026/zurueck-zu-sublime)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
