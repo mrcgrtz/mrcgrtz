@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Regelzeit](https://marcgoertz.de/2026/regelzeit)
+- [🍺 Bier bei Zur Bahn – Die Gaststätte](https://marcgoertz.de/2026/9460)
 - [Wenn Sonntag Bundestagswahl wäre](https://marcgoertz.de/2026/wenn-sonntag-bundestagswahl-waere)
 - [📍 Checkin bei Vue Cinema](https://marcgoertz.de/2026/9437)
 - [📍 Checkin bei Phantasialand](https://marcgoertz.de/2026/9426)
-- [📍 Checkin bei Jumbo](https://marcgoertz.de/2026/9424)
-- [Sonnenfinsternis 2026](https://marcgoertz.de/2026/sonnenfinsternis-2026)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
