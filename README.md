@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei Leni Liebt Kaffee](https://marcgoertz.de/2026/9493)
 - [Regelzeit](https://marcgoertz.de/2026/regelzeit)
 - [🍺 Bier bei Zur Bahn – Die Gaststätte](https://marcgoertz.de/2026/9460)
 - [Wenn Sonntag Bundestagswahl wäre](https://marcgoertz.de/2026/wenn-sonntag-bundestagswahl-waere)
 - [📍 Checkin bei Vue Cinema](https://marcgoertz.de/2026/9437)
-- [📍 Checkin bei Phantasialand](https://marcgoertz.de/2026/9426)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
