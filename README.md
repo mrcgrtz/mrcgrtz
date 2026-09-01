@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📍 Checkin bei Freibad Gangelt](https://marcgoertz.de/2026/9507)
 - [📸 Foto bei 51° N, 6° O](https://marcgoertz.de/2026/9500)
 - [📍 Checkin bei Leni Liebt Kaffee](https://marcgoertz.de/2026/9493)
 - [Regelzeit](https://marcgoertz.de/2026/regelzeit)
 - [🍺 Bier bei Zur Bahn – Die Gaststätte](https://marcgoertz.de/2026/9460)
-- [Wenn Sonntag Bundestagswahl wäre](https://marcgoertz.de/2026/wenn-sonntag-bundestagswahl-waere)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
