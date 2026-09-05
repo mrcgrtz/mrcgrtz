@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [Silo Staffel 3: Erst langsam, dann grandios](https://marcgoertz.de/2026/silo-staffel-3-erst-langsam-dann-grandios)
 - [📍 Checkin bei Freibad Gangelt](https://marcgoertz.de/2026/9507)
 - [📸 Foto bei 51° N, 6° O](https://marcgoertz.de/2026/9500)
 - [📍 Checkin bei Leni Liebt Kaffee](https://marcgoertz.de/2026/9493)
 - [Regelzeit](https://marcgoertz.de/2026/regelzeit)
-- [🍺 Bier bei Zur Bahn – Die Gaststätte](https://marcgoertz.de/2026/9460)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
