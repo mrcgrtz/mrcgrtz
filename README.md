@@ -21,11 +21,11 @@
 ## Latest blog posts (🇩🇪 only)
 
 <!-- POST-LIST:START -->
+- [📸 Foto bei 51° N, 6° O](https://marcgoertz.de/2026/9614)
 - [Schlechte Nachrichten kommen selten allein](https://marcgoertz.de/2026/schlechte-nachrichten-kommen-selten-allein)
+- [📸 Foto bei 51° N, 6° O](https://marcgoertz.de/2026/9611)
 - [📸 Foto bei 51° N, 6° O](https://marcgoertz.de/2026/9587)
 - [📸 Foto bei 51° N, 7° O](https://marcgoertz.de/2026/9562)
-- [LGTM &lpar;Looks Good to Me&rpar;](https://marcgoertz.de/2026/lgtm-looks-good-to-me)
-- [Safari mit MCP-Server](https://marcgoertz.de/2026/safari-mit-mcp-server)
 <!-- POST-LIST:END -->
 
 ## GitHub trophies
